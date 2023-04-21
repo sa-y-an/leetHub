@@ -1,0 +1,6 @@
+- to minimize operations, minimize the size of final array
+- traverse from reverse
+- when curr <= mini
+- then continue with updating mini
+- else
+- divide into components and add
